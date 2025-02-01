@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nikolas_tags",
+  "info": {
+    "singularName": "nikolas-tag",
+    "pluralName": "nikolas-tags",
+    "displayName": "Nikolas tag"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Tag": {
+      "type": "string"
+    }
+  }
+}

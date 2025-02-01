@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "danae_tags",
+  "info": {
+    "singularName": "danae-tag",
+    "pluralName": "danae-tags",
+    "displayName": "Danae tag"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Tag": {
+      "type": "string"
+    }
+  }
+}

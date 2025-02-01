@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "danae_abouts",
+  "info": {
+    "singularName": "danae-about",
+    "pluralName": "danae-abouts",
+    "displayName": "Danae about"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "Text": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
+    }
+  }
+}
